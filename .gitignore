@@ -80,6 +80,9 @@ ExportedObj/
 ehthumbs.db
 Thumbs.db
 
+# Cursor IDE rules (local development only)
+.cursor/
+
 # Image files (optional - remove if you want to track images)
 *.png
 *.jpg
